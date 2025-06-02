@@ -1,0 +1,21 @@
+<!-- // git and github  -->
+
+git--> software
+github ---> online service of git
+
+**vcs(version control system)
+# Atomic commit --> commit the file in every small peace of code or function
+#  ls -la   --> hidden file in command line.
+<!-- ===== git basic command ====== -->
+1. git --v  ---> checking for version of github
+
+<!-- //repo creating -->
+2. git status ---> exist or not
+3. git init ---> intialization   (write add commit)
+4. git add . (for all the file uploading) --> staging area
+   git add filename (for single file)
+   git rm --cached filename ---> for unstage the file. 
+5. git commit -m "message"  (for write some message) --> repo area
+6. git log (what's change you've done till now. it give commit id)
+7. git ignore ---> (if you want to hide any file in your repo (.env file) )
+8. 
